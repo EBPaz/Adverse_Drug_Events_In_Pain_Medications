@@ -1,0 +1,18 @@
+Drug Adverse Events
+Eva Pazdera, Aleid van der Zel, Jenny Shin
+
+Research pain medications by category to determine adverse events over time, between demographics, in relation to generic versus brand name. 
+Have these adverse events increased or decreased over time?
+
+2. Adverse events within a specific category of drugs (pain medications OTC vs prescribed)
+1. Adverse events of pain medication related to gender, age
+4. Adverse events in relation to the generic vs. brand name
+3. Have these adverse events for pain medication changed over time?
+
+
+Dataset to be used:
+Open FDA API
+"https://api.fda.gov/drug/event.json?search=receivedate:[20040101+TO+20081231]&limit=1"
+
+To do's
+Importing and Cleaning Data

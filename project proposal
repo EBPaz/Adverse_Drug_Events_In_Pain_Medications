@@ -1,18 +1,24 @@
 Drug Adverse Events
 Eva Pazdera, Aleid van der Zel, Jenny Shin
 
-Research pain medications by category to determine adverse events over time, between demographics, in relation to generic versus brand name. 
-Have these adverse events increased or decreased over time?
+Research pain medications to determine the number of adverse events over time, between demographics, in relation to generic versus brand name. 
+Have these adverse events increased or decreased over long period of time?
 
-2. Adverse events within a specific category of drugs (pain medications OTC vs prescribed)
-1. Adverse events of pain medication related to gender, age
-4. Adverse events in relation to the generic vs. brand name
-3. Have these adverse events for pain medication changed over time?
-
+1. Adverse events within a specific category of drugs (pain medications OTC vs prescribed) / Changed over time
+2. Adverse events of pain medication related to gender, age
+3. Adverse events in relation to the generic vs. brand name
 
 Dataset to be used:
 Open FDA API
 "https://api.fda.gov/drug/event.json?search=receivedate:[20040101+TO+20081231]&limit=1"
 
 To do's
-Importing and Cleaning Data
+Importing Data from API
+ID Drugs: Acetaminophen / Ibuprofen vs. Hydrocodone / Oxycodone
+Select Criteria from JSON response 
+DataFrame created and saved as a CSV
+Jupyter Notebook for OTC vs Prescribed number of Adverse of Events / Changed over time?
+Jupyter Notebook for Gender and Age
+Jupyter Notebook for generic vs. brand name for Acetaminophen vs. RX
+Review Data / Final Answer
+Put together presentation / create slides

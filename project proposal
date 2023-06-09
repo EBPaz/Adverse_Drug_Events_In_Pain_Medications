@@ -22,3 +22,28 @@ Jupyter Notebook for Gender and Age
 Jupyter Notebook for generic vs. brand name for Acetaminophen vs. RX
 Review Data / Final Answer
 Put together presentation / create slides
+
+
+** These links are for the default of limit 1, so we need to determine what limit we want to use
+Quarter 1 Acetaminophen
+https://api.fda.gov/drug/event.json?search=receivedate:[20230101+TO+20230331]+AND+patient.drug.openfda.generic_name:acetaminophen
+
+Quarter 1 Ibuprofen
+https://api.fda.gov/drug/event.json?search=receivedate:[20230101+TO+20230331]+AND+patient.drug.openfda.generic_name:ibuprofen
+
+Quarter 1 Hydrocodone
+https://api.fda.gov/drug/event.json?search=receivedate:[20230101+TO+20230331]+AND+patient.drug.openfda.generic_name:hydrocodone
+
+Quarter 1 Oxycodone
+https://api.fda.gov/drug/event.json?search=receivedate:[20230101+TO+20230331]+AND+patient.drug.openfda.generic_name:oxycodone
+
+Variables we can easily identify in the response:
+date = results - receivedate
+date = results - patient - patientonsetage  *2 options to decide how we want to pick our date - when the report was submitted or when the patient reported it?
+country = results - primary source - reportercountry
+weight = results - patient - patientweight
+sex = results - patient - patientsex
+reaction = results - patient - reaction - reactionmdedrapt
+medication = results - drug - medicinalproduct
+reason for taking the drug = results - drug - drugindication
+how they took the drug = results - drug - druggosagetext **not sure this variable one will always be written like this?

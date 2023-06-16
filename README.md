@@ -17,16 +17,23 @@ Aleid
 Jenny
 
 **3. How many adverse events occurred in females vs. males?
-Eva
+     In general, more females than males reported adverse events from Hydrocodone, Oxycodone and Fentanyl combined. The drug with the largest spread between female and male reported adverse events is Hydrocodone, which shows almost 2/3 of the adverse events were reported by males. The drug with the least difference in number of reporters is Oxycodone. 
 
 **4. When were the drug abuse reactions reported?
 Aleid
 
 ## Link to Presentation
-
+https://github.com/EBPaz/project1.git
 
 ## Installing
-Installation instructions.
+The following applications are necessary to manage and clean the data for our questions.
+import pandas as pd
+import requests
+import json
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy.stats as stats
+from scipy import stats
 
 ## Sources
 https://open.fda.gov/

@@ -15,7 +15,7 @@ Aleid
 
 **2. How serious were the adverse events / number of serious events  
     Almost three out of every four adverse reports for Hydrocodone, Oxycodone and Fentanyl were reported as serious.
-In terms of seriousness, Fentanyl had the highest percentage of serious events (94%) in our dataset. Hydrocodone had 56.4% serious adverse events, which the least difference in serious vs non-serious. The Chi-square test result shows that there is statistical significance in the distribution of serious events for the three drugs.
+Fentanyl had the highest percentage of serious events (94%) in our dataset. Hydrocodone had 56.4% serious adverse events, which the least difference in serious vs non-serious. The Chi-square test result shows that there is statistical significance in the distribution of serious events for the three drugs.
 
 
 **3. How many adverse events occurred in females vs. males?  

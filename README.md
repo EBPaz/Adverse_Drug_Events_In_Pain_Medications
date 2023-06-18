@@ -1,7 +1,7 @@
 # project1
 Repo for Data Class Project 1 (Eva Pazdera, Jenny Shin, Aleid van der Zel)
 
-# Drug Adverse Events for Top Three Prescription Pain Medications
+# Adverse Drug Events for Top Three Prescription Pain Medications
  
 The industry selected by the analysis team was healthcare. Within the healthcare industry, the team decided to focus on issues related to prescription medication as this would have direct patient impact. As the Food and Drug Administration has oversight over prescription medication in the United States, it was decided to use their open source API for data related to issues with prescrption drugs, also known as adverse events.
 

@@ -14,7 +14,7 @@ Fentanyl is a prescription pain medication currently popular for being abused in
 In the first quarter of 2023 there were a total of 641 recorded in 49 categories. Drug abuse had the largest number of events attributed to fentanyl and mostly reported on one day. The next highest events were death and completed suicide both associated with hydrocodone.
 
 **2. How serious were the adverse events / number of serious events**  
-Almost three out of every four adverse reports for Hydrocodone, Oxycodone and Fentanyl were reported as serious. Fentanyl had the highest percentage of serious events (94%) in our dataset. Hydrocodone had 56.4% serious adverse events, which the least difference in serious vs non-serious. The Chi-square test result shows that there is statistical significance in the distribution of serious events for the three drugs.
+Almost three out of every four adverse reports for Hydrocodone, Oxycodone and Fentanyl were reported as serious. Fentanyl had the highest percentage of serious events (94%) in our dataset. Hydrocodone had 56.4% serious adverse events, which had the least difference in serious vs non-serious. The Chi-square test result shows that there is statistical significance in the distribution of serious events for the three drugs.
 
 **3. How many adverse events occurred in females vs. males?**  
 In general, more females than males reported adverse events from Hydrocodone, Oxycodone and Fentanyl combined. The drug with the largest spread between female and male reported adverse events is Hydrocodone, which shows almost 2/3 of the adverse events were reported by males. The drug with the least difference in number of reporters is Oxycodone. 

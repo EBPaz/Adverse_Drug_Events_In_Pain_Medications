@@ -15,13 +15,13 @@ Fentanyl is a prescription pain medication currently popular for being abused in
 ## Getting Started / Installation  
 This project was written in Jupyter Notebook  
 The API utilized for the data pull is https://open.fda.gov/  
-The following imports and dependencies are necessary to pull and analyze this data
-import pandas as pd
-import requests
-import json
-import numpy as np
-import matplotlib.pyplot as plt
-import scipy.stats as stats
+The following imports and dependencies are necessary to pull and analyze this data  
+import pandas as pd  
+import requests  
+import json  
+import numpy as np  
+import matplotlib.pyplot as plt  
+import scipy.stats as stats  
 from scipy import stats
 
 ## Analysis Questions and Results

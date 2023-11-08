@@ -1,6 +1,6 @@
 # Adverse Drug Events in Pain Medications
-University of Wisconsin Extension - Data Analytics and Visualization Certificate
-API data pulling + analysis, Project 1, Module 7+8
+University of Wisconsin Extension - Data Analytics and Visualization Certificate  
+API data pulling + analysis, Project 1, Module 7+8  
 Group Project (Eva Pazdera, Jenny Shin, Aleid van der Zel)
 
 # About 
